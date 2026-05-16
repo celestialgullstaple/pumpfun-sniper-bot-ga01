@@ -1,4 +1,4 @@
-# 
+# MEV-optimized pump.fun sniper bot | liquidity-sniping + priority-gas-auctions offers the most advanced pump.fun sniper bot, with liquidity-sniping and priority-gas-auctions. Ideal
 
 
 
